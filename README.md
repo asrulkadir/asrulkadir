@@ -30,6 +30,7 @@ I'm a passionate **Software Engineer** specializing in modern web technologies. 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
 ### Database & Cloud
@@ -48,27 +49,6 @@ I'm a passionate **Software Engineer** specializing in modern web technologies. 
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
-
-## 🎮 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrulkadir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrulkadir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrulkadir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🎯 Current Focus
-
-- 🔥 Building scalable web applications with **React.js** and **Node.js**
-- 📚 Exploring **Microservices Architecture** with **NestJS**
-- 🚀 Learning **DevOps** practices and **Cloud Technologies**
-- 🎨 Creating beautiful UIs with modern **CSS frameworks**
 
 ## 📫 Let's Connect!
 
